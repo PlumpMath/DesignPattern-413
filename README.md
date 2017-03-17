@@ -1,3 +1,3 @@
 # DesignPattern
-Producer/Consumer Pattern
-Thread-safe Singleton Pattern
+* Producer/Consumer Pattern
+* Thread-safe Singleton Pattern
